@@ -1,2 +1,3 @@
 # opinion
-This is a portfolio and pag e talking about myself,country and different social media account 
+my portfolio is a projected that was created with HTML and CSS ,the project talks about my nationality, 
+my identity,my contacts and different social media account  
