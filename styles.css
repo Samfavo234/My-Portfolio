@@ -1,0 +1,168 @@
+
+
+.container{
+    display: flex;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.text{
+    margin-right: 10px;
+}
+.logo{
+    padding-left: 100px;
+    padding-top: 5px;
+}
+
+.frontend{
+    color:#FF408C;
+    font-size: 39px;
+    padding-left: 100px;
+    height: 30px;
+    font-weight: 900;
+    margin-top: 17px;
+
+}
+.info{
+    
+    font-size: 0.6em;
+    color: #555555;
+}
+img{
+    width: 350px;
+   height: 480px;
+   top: 226px;
+   left: 1134px;
+   
+   
+   }
+
+.icons{
+    width:300px ;
+height:29px;
+gap: 30px;
+object-fit: cover;
+
+
+}
+
+.social-icons {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    color: #FF408C;
+    width: 13%;
+    margin: auto;
+    
+    gap: 20px;
+}
+
+li{
+    color: #FF408C;
+}
+
+   
+    
+
+main{
+    background-color: white;
+    width: 65%;
+    margin: auto;
+  
+
+}
+
+
+   
+
+body{
+    background-color: black;
+    padding-top: 10%;
+    padding-bottom: 15%;
+    font-family: 'Poppins', sans-serif;
+  
+    
+}
+.images{
+    padding-left: 20px;
+    padding-top: 20px;
+    height: 480px;
+    object-fit: cover;
+}
+.card{
+    position: relative; 
+    cursor: grab; 
+
+}
+
+
+.card:active { 
+    cursor: grabbing; }
+.logo{
+    width:50px;
+    height:40px;
+    object-fit: cover;
+}
+.name{
+    height: 2px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+ text-align: left;
+ padding-left: 100px;
+ font-size: 18px;
+ font-family: 'Poppins', sans-serif;
+}
+.designer{
+    padding-right: 100px;
+    margin-left: 100px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 18px;
+}
+.contact{
+    margin-bottom: 50px;
+    text-align: left;
+    padding-left: 100px;
+    
+
+    
+}
+.tool{
+    text-align: left;
+    margin-bottom: 17px;
+font-weight: 600;
+font-size: 12px;
+
+}
+
+
+footer{
+    text-align: center;
+}
+.social{
+    margin-top: 0;
+    padding-top: 70px;
+    
+
+    
+    
+    
+
+}
+
+ul{
+    color: #FF408C;
+    margin-bottom: 0;
+}
+.Copyrights{
+    margin-top: 0;
+    padding-bottom: 10px;
+    font-size: 7px;
+    
+}
+a{
+    color: #FF408C;
+    
+}
